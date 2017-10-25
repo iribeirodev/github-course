@@ -1,3 +1,5 @@
 Git Course
 
-Este √©um reposit√rio teste para ensinar como o Git funciona
+Este √ um repositorio teste para ensinar como o Git funciona
+
+Saiba mais em "teste.com.br"
