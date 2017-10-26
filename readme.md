@@ -1,7 +1,5 @@
 dafdsafdas Git Course
 
-dfsfkasddakjlkfdjald
-
 Este é um repositório teste para ensinar como o Git funciona
 
 Saiba mais em "teste.com.br"
